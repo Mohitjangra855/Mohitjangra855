@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mohitjangra855
 - 👀 I’m interested in Web developemont
 - 🌱 I’m currently learning React.js
-- 👀 See Front-end Projects to go : repo - Projects
-- # Go To My Front-end Projects:  [Click me..](https://github.com/Mohitjangra855/Projects)
-- 👀 See Full-stack Projects to go : repo - Full-Stack-Projects.
-- # Go To My Full-Stack Projects:  [Click me..](https://github.com/Mohitjangra855/Full-Stack-Projects.git)
+- 👀 See Front-end Projects to go : repo - Projects  [Click me..](https://github.com/Mohitjangra855/Projects)
+- 👀 See Full-stack Projects to go : repo - Full-Stack-Projects [Click me..](https://github.com/Mohitjangra855/Full-Stack-Projects.git)
