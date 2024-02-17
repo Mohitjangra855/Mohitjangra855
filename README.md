@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Mohitjangra855
 - 👀 I’m interested in Web developemont
 - 🌱 I’m currently learning React.js
-- 👀 Fornt Project to go : repo - Projects.
+- 👀 See Front-end Projects to go : repo - Projects.
+- 👀 See Full-stack Projects to go : repo - Full-Stack-Projects.
