@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Mohitjangra855
 - 👀 I’m interested in Web developemont
 - 🌱 I’m currently learning React.js
-- 👀 See Front-end Projects to go : repo - Projects # Go To My Linkdin Profile:  [Click me..]([https://www.linkedin.com/in/mohit-kumar-8850382aa/])
+- 👀 See Front-end Projects to go : repo - Projects
+- # Go To My Front-end Projects:  [Click me..](https://github.com/Mohitjangra855/Projects)
 - 👀 See Full-stack Projects to go : repo - Full-Stack-Projects.
